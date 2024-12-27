@@ -4,16 +4,32 @@
 
 ## 软件测试通识
 
-- [软件测试通识](basics/软件测试通识.html)
+
+
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
+> - [测试流程与理论](basics/软件测试通识.html)
 
 ## 自动化测试
 
-- [软件测试通识](basics/软件测试通识.html)
+> - [软件测试通识](basics/软件测试通识.html)
 
 ## Python
 
-- [软件测试通识](basics/软件测试通识.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
+> - [Python](python/python1.html)
 
 ## Java
 
-- [软件测试通识](basics/软件测试通识.html)
+> - [软件测试通识](basics/软件测试通识.html)
+
